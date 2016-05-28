@@ -19,6 +19,7 @@ namespace GitDemoConsoleApp
             //+1 Online stash test edit.
             //+1 VS stash test edit.dsfsfsdf
             Console.WriteLine("");
+            //+Another edit after git tools installation.
         }
     }
 }
