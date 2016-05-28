@@ -10,5 +10,6 @@ namespace GitDemoConsoleApp
     {
         //Added new class from branch1.
         //Line to test multiple file conflicts.
+        //Edited in online Git master branch.
     }
 }

@@ -12,7 +12,7 @@ namespace GitDemoConsoleApp
         {
             //Change 1 from feature/branch1.
             //Change 2 from branch1 form cmd testing and another change from VS. This is updated through merge conflict resolution.
-            //Edit one more line to test multiple conflicts.
+            // Edited one more line to test multiple file conflict resolution from VS.
         }
     }
 }
