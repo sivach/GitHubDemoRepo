@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitDemoConsoleApp
 {
-    class OneMoreClass
+    class OneClass
     {
         //Added new class from branch1.
         //Line to test multiple file conflicts.
