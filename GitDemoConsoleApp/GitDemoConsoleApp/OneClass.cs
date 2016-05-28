@@ -16,5 +16,7 @@ namespace GitDemoConsoleApp
         //One VS Edit Type.
         //One more stash test to test stashing.
         //+ More stash test.
+        //One more stash test.
+        //+ More editable about the stashing and its side effects.
     }
 }
