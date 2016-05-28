@@ -12,5 +12,6 @@ namespace GitDemoConsoleApp
         //Line to test multiple file conflicts.
         //Edited in online Git master branch.
         //One more online commit and class name change.
+        //One VS Edit Type.
     }
 }
