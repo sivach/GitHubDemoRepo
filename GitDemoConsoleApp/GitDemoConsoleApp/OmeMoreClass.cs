@@ -9,5 +9,6 @@ namespace GitDemoConsoleApp
     class OmeMoreClass
     {
         //Added new class from branch1.
+        //Edited in online Git master branch.
     }
 }
