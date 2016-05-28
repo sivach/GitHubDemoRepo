@@ -15,6 +15,7 @@ namespace GitDemoConsoleApp
             // Edited one more line to test multiple file conflict resolution from VS.
             // Edit to test stashing.
             //One more edit to test stashing.
+            //Online stash test edit.
         }
     }
 }
