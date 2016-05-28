@@ -11,7 +11,7 @@ namespace GitDemoConsoleApp
         static void Main(string[] args)
         {
             //Change 1 from feature/branch1.
-            //Change 2 from branch1 form cmd testing and another change from VS.
+            //Change 2 from branch1 form cmd testing and another change from VS. This is updated through merge conflict resolution.
         }
     }
 }
