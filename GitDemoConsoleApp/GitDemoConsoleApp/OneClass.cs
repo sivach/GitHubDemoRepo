@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace GitDemoConsoleApp
 {
-    class OneMoreClass
+    class OneClass
     {
         //Added new class from branch1.
         //Line to test multiple file conflicts.
         //Edited in online Git master branch.
-        //One more Edit!!
+        //One more online commit and class name change.
     }
 }
