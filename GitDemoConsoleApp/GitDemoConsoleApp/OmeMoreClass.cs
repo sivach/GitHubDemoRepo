@@ -9,5 +9,6 @@ namespace GitDemoConsoleApp
     class OmeMoreClass
     {
         //Added new class from branch1.
+        //Line to test multiple file conflicts.
     }
 }
